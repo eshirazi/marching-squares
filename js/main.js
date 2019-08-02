@@ -13,7 +13,8 @@ function onLoad() {
   }
 
   function render() {
-    functionAltitudeRenderer(canvas, ctx, f, AXIS_STEP_SIZE);
+    //functionAltitudeRenderer(canvas, ctx, f, AXIS_STEP_SIZE);
+    marchingSquaresRenderer(canvas, ctx, f, AXIS_STEP_SIZE);
   }
 
   function frame() {
