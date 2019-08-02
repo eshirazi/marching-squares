@@ -1,0 +1,14 @@
+{
+  "name": "marching-squares",
+  "version": "1.0.0",
+  "description": "Implementation of a variation of the Marching Squares algoritm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server . 8080"
+  },
+  "author": "Eran Shirazi",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.107.0"
+  }
+}
