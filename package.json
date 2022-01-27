@@ -9,6 +9,6 @@
   "author": "Eran Shirazi",
   "license": "MIT",
   "dependencies": {
-    "three": "^0.107.0"
+    "three": "^0.137.0"
   }
 }
